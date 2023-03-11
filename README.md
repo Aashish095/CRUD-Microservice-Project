@@ -1,3 +1,6 @@
+This app is using Django and Flask for backend and for frontend we are using great learning behind this project
+and I also dockerised this project so we can use in any  machine
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
