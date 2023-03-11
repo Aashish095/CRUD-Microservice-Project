@@ -4,6 +4,12 @@
 /node_modules
 /.pnp
 .pnp.js
+/Admin/.dbdata
+/Admin/.idea
+/Admin/db.sqlite3
+/main/.dbdata
+/main/.idea
+/main/db.sqlite3
 
 # testing
 /coverage
